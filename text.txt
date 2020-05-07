@@ -1,3 +1,7 @@
 edfssadfdsacvcdvaf asdsfdsvdsva
 sdasdasda
+<<<<<<< HEAD
 kokoko
+=======
+jojojojo
+>>>>>>> tester
